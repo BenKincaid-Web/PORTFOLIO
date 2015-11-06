@@ -98,6 +98,7 @@ body {
 }
 
 #nav a {
+	font-family: Roboto Condensed;
 	display: block;
 	float: left;
 	color: #1D1D1D;
@@ -163,7 +164,7 @@ body {
 	padding: 40px 250px 140px 250px;
 	margin: 10px 0px 200px 0px;
 	background-color: #ECE9E8;
-	height: 1300px;
+	height: 900px;
 }
 
 #contentAboutMe h1 { 
