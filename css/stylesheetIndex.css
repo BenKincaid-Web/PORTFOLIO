@@ -42,7 +42,7 @@ body {
 	top: 70px;
 	bottom: 100px;
 	right: -80px;
-	width: 210px;	
+	width: 210px;
 	height: 640px;
 	padding: 30px 20px 50px 20px;
 	background-color: #D4D4D4;
@@ -159,7 +159,7 @@ body {
 
 /*--------------------------------------------------------ABOUT ME------------------------------------------------------------*/
 
-#contentAboutMe {
+#contentContact {
 	position: relative;
 	padding: 40px 250px 140px 250px;
 	margin: 10px 0px 200px 0px;
@@ -167,12 +167,22 @@ body {
 	height: 900px;
 }
 
-#contentAboutMe h1 { 
+#contentContact h1 { 
 	letter-spacing: 3px;
 	font-size: 40px;
 	text-align: center;
 	
 }
 
-#contentAboutMe h2 {
+#contentContact h2 {
 	text-align: center;
+}
+/*----------------------------------------------------BLOG--------------------------------------------------------------------*/
+
+
+#contentBlog {
+	position: relative;
+	padding: 10px 250px 140px 40px;
+	margin: 10px 0px 200px 0px;
+	background-color: #ECE9E8;
+	height: 1300px;
