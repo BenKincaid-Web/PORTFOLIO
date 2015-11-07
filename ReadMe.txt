@@ -12,4 +12,5 @@ UPDATES:
 First commit; Basic HTML/CSS structure, no links 
 for nav bar.
 
-Added "Contact" page and nav functionality for (contact)/(home).
+Added "Contact" and "Blog" page and nav functionality for (contact)/(home)/(blog).
+
